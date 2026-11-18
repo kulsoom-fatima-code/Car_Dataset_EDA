@@ -1,0 +1,12 @@
+START HERE
+1. Get teacher approval for the Kaggle dataset:
+   https://www.kaggle.com/datasets/CooperUnion/cardataset
+2. Download the file named data.csv and copy it into this folder.
+3. Open Car_EDA_Notebook.ipynb in Jupyter or Google Colab.
+4. Run all cells in order. Read the output and write your own 1–2 line interpretation under every graph.
+5. Install dependencies: pip install -r requirements.txt
+6. Run: streamlit run app.py
+7. Update README.md after GitHub and Streamlit deployment.
+
+Dataset facts: 11,914 rows and 16 columns; one row represents a vehicle configuration/listing.
+This is a starter project, not a completed/verified submission. Do not submit without running and checking the outputs.
