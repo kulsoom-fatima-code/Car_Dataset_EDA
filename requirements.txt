@@ -1,1 +1,6 @@
-streamlit\npandas\nplotly\nmatplotlib\nseaborn\nnbformat\n
+streamlit
+pandas
+plotly
+matplotlib
+seaborn
+nbformat
